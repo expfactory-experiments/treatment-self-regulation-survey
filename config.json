@@ -2,6 +2,7 @@
     "name": "Treatment Self-Regulation Questionnaire Survey",
     "template":"survey",
     "exp_id": "treatment-self-regulation-survey",
+    "url": "https://github.com/expfactory-experiments/treatment-self-regulation-survey",
     "cognitive_atlas_task_id": "trm_56aa9833c4be2",
     "contributors": [
              "Ian Eisenberg",
